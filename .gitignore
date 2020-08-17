@@ -1,6 +1,9 @@
 # Adding ratings.csv file.
 ratings.csv
 
+# Adding config.py file.
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
